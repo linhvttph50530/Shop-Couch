@@ -1,1 +1,1 @@
-Assignment Frontend Framework 2 nhóm 5
+echo "# Shop-Couch" > README.md

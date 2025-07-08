@@ -61,8 +61,8 @@
     {
       "userId": "10",
       "customer": {
-        "name": "Lê Nguyên Tùng",
-        "email": "tunglnph49038@imail.edu.vn",
+        "name": "Nguyen Vien Linh",
+        "email": "linh49038@imail.edu.vn",
         "phone": "0396180619",
         "address": "HHN",
         "paymentMethod": "cod"
@@ -208,7 +208,7 @@
       "userId": "10",
       "customer": {
         "name": "XIN LỖI",
-        "email": "tungthuyfake@gmail.com",
+        "email": "linhthuyfake@gmail.com",
         "phone": "0396180619",
         "address": "th",
         "paymentMethod": "cod"
@@ -230,8 +230,8 @@
     {
       "userId": "10",
       "customer": {
-        "name": "Lê Nguyên Tùng",
-        "email": "tungthuyfake@gmail.com",
+        "name": "Linh Viên Thùy",
+        "email": "linhthuyfake@gmail.com",
         "phone": "0396180619",
         "address": "1213123",
         "paymentMethod": "cod"
