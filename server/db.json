@@ -348,7 +348,7 @@
         }
       ],
       "totalPrice": 72000000,
-      "status": "Giao hàng thành công",
+      "status": "Trả hàng",
       "id": 11
     },
     {
@@ -419,6 +419,60 @@
       "totalPrice": 25000000,
       "status": "Đã xác nhận",
       "id": 14
+    },
+    {
+      "userId": "13",
+      "customer": {
+        "name": "Nhật Linh",
+        "email": "linhvttph50530@gmail.com",
+        "phone": "0379559352",
+        "address": "Số nhà 82, Phố ABC, Phường XYZ, Quận LMN, Tỉnh ALO",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": 7,
+          "name": "Ghế ăn gỗ đệm vải có tay N010489",
+          "price": "3360000",
+          "description": "Sofa da cao cấp nhập khẩu, chất liệu da thật, mềm mại và bền bỉ.",
+          "image": "https://product.hstatic.net/200000532817/product/ghe_an_go_dem_vai_co_tay_n010489_2e5d27e9b70847548fb0c178c19f924f_master.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 3360000,
+      "status": "Chờ xác nhận",
+      "id": 15
+    },
+    {
+      "userId": "11",
+      "customer": {
+        "name": "Nhật Linh nè",
+        "email": "linhvttph50530@gmail.com",
+        "phone": "0869282398",
+        "address": "Số nhà 82, Phố ABC, Phường XYZ, Quận Thùy Linh, Tỉnh ALO",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": 7,
+          "name": "Ghế ăn gỗ đệm vải có tay N010489",
+          "price": "3360000",
+          "description": "Sofa da cao cấp nhập khẩu, chất liệu da thật, mềm mại và bền bỉ.",
+          "image": "https://product.hstatic.net/200000532817/product/ghe_an_go_dem_vai_co_tay_n010489_2e5d27e9b70847548fb0c178c19f924f_master.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Ghế Ăn Vải Nỉ Bizu",
+          "price": 25000000,
+          "description": "Ghế bọc vải là một trong những sản phẩm nổi bật của Furnist. Với thiết kế ấn tượng cùng công nghệ sản xuất tiên tiến, đảm bảo về công năng sử dụng. Sản phẩm là sự thành công để mang đến không gian vẻ đẹp sang trọng, đa năng trong cách ứng dụng và an toàn cho người sử dụng.",
+          "image": "https://www.pngplay.com/wp-content/uploads/2/Modern-Chair-PNG-HD-Quality.png",
+          "quantity": 32
+        }
+      ],
+      "totalPrice": 803360000,
+      "status": "Đã hủy",
+      "id": 16
     }
   ],
   "users": [
@@ -451,7 +505,7 @@
     },
     {
       "email": "linh@gmail.com",
-      "password": "$2a$10$LYsBvZjT8TT.sbSONS7a3OTEehAitmXiG0TqOIB9vobrpTr4R1N9O",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
       "name": "nhatlinh",
       "address": "me tri",
       "phone": "0869282398",
@@ -459,13 +513,22 @@
       "id": 11
     },
     {
-      "email": "linh@gmail.com",
-      "password": "$2a$10$2vpFfXf6FE4WfIQKCEFEGOfeqN/cvq6dBmbBFlcRT1ouITfT.PdPO",
+      "email": "linha@gmail.com",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
       "name": "Viên Thùy Linh",
       "address": "Hòa Bình",
       "phone": "0869282398",
       "is_admin": false,
       "id": 12
+    },
+    {
+      "email": "linhvttph50530@gmail.com",
+      "password": "$2a$10$DESkKbGrH8EOv43.ikwhX.0x/sxKIw8VgcVdM3T0gPmYHaqQpF40m",
+      "name": "Viên thùy linh",
+      "address": "Hưng Yên",
+      "phone": "0379559352",
+      "is_admin": false,
+      "id": 13
     }
   ],
   "cart": [
@@ -482,20 +545,6 @@
         }
       ],
       "id": 2
-    },
-    {
-      "userId": "11",
-      "products": [
-        {
-          "id": 7,
-          "name": "Ghế ăn gỗ đệm vải có tay N010489",
-          "price": "3360000",
-          "description": "Sofa da cao cấp nhập khẩu, chất liệu da thật, mềm mại và bền bỉ.",
-          "image": "https://product.hstatic.net/200000532817/product/ghe_an_go_dem_vai_co_tay_n010489_2e5d27e9b70847548fb0c178c19f924f_master.jpg",
-          "quantity": 1
-        }
-      ],
-      "id": 3
     }
   ]
 }
