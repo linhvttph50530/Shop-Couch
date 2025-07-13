@@ -55,6 +55,34 @@
       "price": "90000",
       "description": "Ghế ăn  XDAILY - Ghế chữ A .\n\nChất liệu :  gỗ cao su hoặc tần bì , cốt polywood , nệm bọc da PU hoặc vải .\n\nMàu sắc : tùy chọn  đặt bọc theo màu liên hệ XDAILY .\n\nKích thước : Chiều cao tiêu chuẩn cho người trưởng thành , H45cm ( xem chi tiết phía dưới ) .\n\nỨng dụng : ghế ăn, ghế cafe, ghế họp, ghế văn phòng, ghế nhà hàng , ghế quầy bar ...\n\nXuất xứ : Việt Nam .\n\nBảo hành : 12 tháng",
       "image": "https://product.hstatic.net/1000400963/product/ghe-an-cafe-xdaily-chu-a_f742dd934474448187f0059f9ff098b5_master.jpg"
+    },
+    {
+      "name": "Ghế sofa chống nước",
+      "price": "34445688",
+      "image": "https://product.hstatic.net/200000532817/product/ghe_an_go_dem_vai_co_tay_n010489_2e5d27e9b70847548fb0c178c19f924f_master.jpg",
+      "description": "Sofa da cao cấp nhập khẩu, chất liệu da thật, mềm mại và bền bỉ.",
+      "id": 11
+    },
+    {
+      "name": "Ghế Sofa cao cấp ",
+      "price": "62333445",
+      "image": "https://product.hstatic.net/200000532817/product/ghe_an_go_dem_vai_co_tay_n010489_2e5d27e9b70847548fb0c178c19f924f_master.jpg",
+      "description": "Ghế bọc vải là một trong những sản phẩm nổi bật của Furnist. Với thiết kế ấn tượng cùng công nghệ sản xuất tiên tiến, đảm bảo về công năng sử dụng. Sản phẩm là sự thành công để mang đến không gian vẻ đẹp sang trọng, đa năng trong cách ứng dụng và an toàn cho người sử dụng.",
+      "id": 12
+    },
+    {
+      "name": "Sofa da mịn cao cấp2",
+      "price": "54300345",
+      "image": "https://product.hstatic.net/200000532817/product/ghe_an_go_dem_vai_co_tay_n010489_2e5d27e9b70847548fb0c178c19f924f_master.jpg",
+      "description": "Sofa da cao cấp nhập khẩu, chất liệu da thật, mềm mại và bền bỉ.",
+      "id": 13
+    },
+    {
+      "name": "Viên thùy linh",
+      "price": "222222222",
+      "image": "https://product.hstatic.net/1000400963/product/ghe-an-xdaily-eames-chair__1__c073b3c9cb9c49b48b92f957bff0c3e3_master.jpg",
+      "description": "Ghế ăn - Ghế cafe XDAILY - Eames chair",
+      "id": 14
     }
   ],
   "orders": [
@@ -473,12 +501,104 @@
       "totalPrice": 803360000,
       "status": "Đã hủy",
       "id": 16
+    },
+    {
+      "userId": "11",
+      "customer": {
+        "name": "Thùy Linh",
+        "email": "linhvttph50530@gmail.com",
+        "phone": "0869282398",
+        "address": "Số nhà 82, Phố ABC, Phường XYZ, Quận Thùy Linh, Tỉnh ALO",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Ghế ăn - Ghế cafe XDAILY - Eames chair",
+          "price": "10000000",
+          "description": "Kích thước (DxR):\n1800*850mm – Giá: 9,360,000 VND\n2000*850mm – Giá: 10,400,000 VND\n2200*850mm – Giá: 11,440,000 VND",
+          "image": "https://product.hstatic.net/1000400963/product/ghe-an-xdaily-eames-chair__1__c073b3c9cb9c49b48b92f957bff0c3e3_master.jpg",
+          "quantity": 6
+        }
+      ],
+      "totalPrice": 60000000,
+      "status": "Chờ xác nhận",
+      "id": 17
+    },
+    {
+      "userId": "11",
+      "customer": {
+        "name": "thùy linh",
+        "email": "linhvttph50530@gmail.com",
+        "phone": "0869282398",
+        "address": "Số nhà 82, Phố ABC, Phường XYZ, Quận Thùy Linh, Tỉnh ALO",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Ghế ăn - Ghế cafe XDAILY - Eames chair",
+          "price": "10000000",
+          "description": "Kích thước (DxR):\n1800*850mm – Giá: 9,360,000 VND\n2000*850mm – Giá: 10,400,000 VND\n2200*850mm – Giá: 11,440,000 VND",
+          "image": "https://product.hstatic.net/1000400963/product/ghe-an-xdaily-eames-chair__1__c073b3c9cb9c49b48b92f957bff0c3e3_master.jpg",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 10000000,
+      "status": "Chờ xác nhận",
+      "id": 18
+    },
+    {
+      "userId": "11",
+      "customer": {
+        "name": "Viên thùy linh",
+        "email": "linhvttph50530@gmail.com",
+        "phone": "0379559352",
+        "address": "Số nhà 82, Phố ABC, Phường XYZ, Quận Thùy Linh, Tỉnh ALO",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": 1,
+          "name": "Ghế ăn - Ghế cafe XDAILY - Eames chair",
+          "price": "10000000",
+          "description": "Kích thước (DxR):\n1800*850mm – Giá: 9,360,000 VND\n2000*850mm – Giá: 10,400,000 VND\n2200*850mm – Giá: 11,440,000 VND",
+          "image": "https://product.hstatic.net/1000400963/product/ghe-an-xdaily-eames-chair__1__c073b3c9cb9c49b48b92f957bff0c3e3_master.jpg",
+          "quantity": 2
+        }
+      ],
+      "totalPrice": 20000000,
+      "status": "Chờ xác nhận",
+      "id": 19
+    },
+    {
+      "userId": "11",
+      "customer": {
+        "name": "Viên thùy linh",
+        "email": "linhvttph50530@gmail.com",
+        "phone": "0379559352",
+        "address": "Số nhà 82, Phố ABC, Phường XYZ, Quận Thùy Linh, Tỉnh ALO",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": 2,
+          "name": "Ghế Ăn Vải Nỉ Bizu",
+          "price": 25000000,
+          "description": "Ghế bọc vải là một trong những sản phẩm nổi bật của Furnist. Với thiết kế ấn tượng cùng công nghệ sản xuất tiên tiến, đảm bảo về công năng sử dụng. Sản phẩm là sự thành công để mang đến không gian vẻ đẹp sang trọng, đa năng trong cách ứng dụng và an toàn cho người sử dụng.",
+          "image": "https://www.pngplay.com/wp-content/uploads/2/Modern-Chair-PNG-HD-Quality.png",
+          "quantity": 4
+        }
+      ],
+      "totalPrice": 100000000,
+      "status": "Chờ xác nhận",
+      "id": 20
     }
   ],
   "users": [
     {
       "email": "linhdayroi@gmail.com",
-      "password": "$2a$10$xmfx/JanVpNs9M1lxNZHVOzEzzhTkYUKYa7Q/5qqATkLL36PebQ5G",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
       "name": "X$ng",
       "address": "Phú Thọ",
       "phone": "0869282398",
@@ -487,7 +607,7 @@
     },
     {
       "email": "linhdayne@gmail.com",
-      "password": "$2a$10$zXeZdEWyXWr2LaCvW6oaEusww4Hb8xBswmmPCDe0wcyidljTTPzYm",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
       "name": "THUYLINH",
       "address": "Phú Thọ",
       "phone": "0869282398",
@@ -496,18 +616,18 @@
     },
     {
       "email": "lingnguyenvien49038@imail.edu.vn",
-      "password": "$2a$10$Cqj7Kz9BJkzFPgrQueiOiui3nLVve.fdOD3.eanI8JyXXYA/QBY7a",
-      "name": "Nguyen Vien Linh",
+      "password": "$2a$10$9Op8PYZxtX62g/6BXQvuO.gh/UuWHXauG0ST29M5W9rvA5J/RxifW",
+      "name": " Vien Linh Thùy",
       "address": "Phú Thọ",
       "phone": "0869282398",
-      "is_admin": true,
+      "is_admin": false,
       "id": 10
     },
     {
       "email": "linh@gmail.com",
       "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
-      "name": "nhatlinh",
-      "address": "me tri",
+      "name": "Nhật Linh",
+      "address": "Mễ trì",
       "phone": "0869282398",
       "is_admin": true,
       "id": 11
@@ -523,12 +643,30 @@
     },
     {
       "email": "linhvttph50530@gmail.com",
-      "password": "$2a$10$DESkKbGrH8EOv43.ikwhX.0x/sxKIw8VgcVdM3T0gPmYHaqQpF40m",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
       "name": "Viên thùy linh",
       "address": "Hưng Yên",
       "phone": "0379559352",
       "is_admin": false,
       "id": 13
+    },
+    {
+      "email": "linh4123@gmail.com",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
+      "name": "Nguyễn Thùy Linh",
+      "address": "Phú Thọ",
+      "phone": "0869282398",
+      "is_admin": false,
+      "id": 14
+    },
+    {
+      "email": "linh123@gmail.com",
+      "password": "$2a$10$oUMMxREfsSbywkUCRZRjZegmrWFB7Rm.4cnxAbvRYxstH395/bOHe",
+      "name": "Nhật Linh",
+      "address": "Phú Thọ",
+      "phone": "0379559352",
+      "is_admin": false,
+      "id": 15
     }
   ],
   "cart": [
